@@ -2,10 +2,14 @@
 
 ## Quickstart
 * set DB envs inside of `dbmigrate.sh` file and run it
-```./dbmigrate.sh```
+```
+./dbmigrate.sh
+```
 * set envs inside of `.env` file
 * run the server and OAuth client
-```./run.sh```
+```
+./run.sh
+```
 
 ## Features
 * CRUD endpoints on users data
